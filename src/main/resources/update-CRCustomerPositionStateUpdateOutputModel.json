@@ -1,0 +1,9 @@
+{
+  "customerPositionStateUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "customerPositionStateInstanceRecord" : {
+    "customerReference" : "760188",
+    "customerProductServiceEligibilityInstanceRecord" : {}
+  },
+  "customerPositionStateUpdateActionTaskReference" : "CPSUATR716041"
+}

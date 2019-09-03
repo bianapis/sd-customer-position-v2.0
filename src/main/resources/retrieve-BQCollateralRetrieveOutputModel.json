@@ -1,0 +1,37 @@
+{
+  "collateralRetrieveActionResponse" : "collateralRetrieveActionResponse",
+  "collateralInstanceAnalysis" : {
+    "collateralInstanceAnalysisReportType" : "collateralInstanceAnalysisReportType",
+    "collateralInstanceAnalysisRecord" : {},
+    "collateralInstanceAnalysisParameters" : "collateralInstanceAnalysisParameters",
+    "collateralInstanceAnalysisReport" : {}
+  },
+  "collateralRetrieveActionTaskReference" : "CRATR777278",
+  "customerPositionStateInstanceRecord" : {
+    "customerPositionStateRecord" : {},
+    "customerReference" : "789792",
+    "customerProductServiceEligibilityInstanceRecord" : {}
+  },
+  "collateralInstanceRecord" : {
+    "customerCollateralPositionAnalysisRecord" : {},
+    "collateralAssetAllocationInstanceRecord" : {
+      "collateralAssetType" : "collateralAssetType",
+      "collateralAssetStatus" : "collateralAssetStatus",
+      "collateralAssetDescription" : "collateralAssetDescription",
+      "collateralAssetReference" : "728658",
+      "collateralAssetValuation" : "collateralAssetValuation",
+      "customerReference" : "716962",
+      "collateralAssetAdministrationInstanceReference" : "764271",
+      "collateralAssetValuationDate" : "09-22-2018",
+      "collateralAssetLoantoValueRatio" : "collateralAssetLoantoValueRatio",
+      "collateralAssetAllocationProfile" : "collateralAssetAllocationProfile"
+    }
+  },
+  "collateralInstanceReport" : {
+    "collateralInstanceReportRecord" : {},
+    "collateralInstanceReportType" : "collateralInstanceReportType",
+    "collateralInstanceReportParameters" : "collateralInstanceReportParameters",
+    "collateralInstanceReport" : {}
+  },
+  "collateralRetrieveActionTaskRecord" : {}
+}

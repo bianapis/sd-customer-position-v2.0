@@ -1,0 +1,9 @@
+{
+  "customerPositionStateInstanceReference" : "CPSIR799479",
+  "customerPositionStateInstanceStatus" : "customerPositionStateInstanceStatus",
+  "customerPositionStateInstanceRecord" : {
+    "customerPositionStateRecord" : {}
+  },
+  "customerPositionStateInitiateActionReference" : "CPSIAR747217",
+  "customerPositionStateInitiateActionRecord" : {}
+}

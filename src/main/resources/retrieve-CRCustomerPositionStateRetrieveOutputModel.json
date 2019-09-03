@@ -1,0 +1,20 @@
+{
+  "customerPositionStateInstanceReportRecord" : {
+    "customerPositionStateInstanceReport" : {},
+    "customerPositionStateInstanceReportType" : "customerPositionStateInstanceReportType",
+    "customerPositionStateInstanceReportData" : "customerPositionStateInstanceReportData"
+  },
+  "customerPositionStateRetrieveActionTaskRecord" : {},
+  "customerPositionStateRetrieveActionResponse" : "customerPositionStateRetrieveActionResponse",
+  "customerPositionStateRetrieveActionTaskReference" : "CPSRATR731974",
+  "customerPositionStateInstanceRecord" : {
+    "customerPositionStateRecord" : {},
+    "customerReference" : "722797",
+    "customerProductServiceEligibilityInstanceRecord" : {}
+  },
+  "customerPositionStateInstanceAnalysis" : {
+    "customerPositionStateInstanceAnalysisReport" : {},
+    "customerPositionStateInstanceAnalysisReportType" : "customerPositionStateInstanceAnalysisReportType",
+    "customerPositionStateInstanceAnalysisData" : "customerPositionStateInstanceAnalysisData"
+  }
+}

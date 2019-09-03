@@ -1,0 +1,9 @@
+{
+  "creditCaptureRecordReference" : "CCRR751232",
+  "creditInstanceRecord" : {
+    "customerCreditPositionAnalysisRecord" : {}
+  },
+  "creditCaptureActionTaskRecord" : {},
+  "captureResponseRecord" : {},
+  "creditCaptureActionTaskReference" : "CCATR759759"
+}

@@ -1,0 +1,34 @@
+{
+  "cashflowRetrieveActionResponse" : "cashflowRetrieveActionResponse",
+  "cashflowRetrieveActionTaskReference" : "CRATR713342",
+  "cashflowInstanceReport" : {
+    "cashflowInstanceReportParameters" : "cashflowInstanceReportParameters",
+    "cashflowInstanceReport" : {},
+    "cashflowInstanceReportRecord" : {},
+    "cashflowInstanceReportType" : "cashflowInstanceReportType"
+  },
+  "cashflowInstanceAnalysis" : {
+    "cashflowInstanceAnalysisRecord" : {},
+    "cashflowInstanceAnalysisReportType" : "cashflowInstanceAnalysisReportType",
+    "cashflowInstanceAnalysisReport" : {},
+    "cashflowInstanceAnalysisParameters" : "cashflowInstanceAnalysisParameters"
+  },
+  "cashflowRetrieveActionTaskRecord" : {},
+  "customerPositionStateInstanceRecord" : {
+    "customerPositionStateRecord" : {},
+    "customerReference" : "774139",
+    "customerProductServiceEligibilityInstanceRecord" : {}
+  },
+  "cashflowInstanceRecord" : {
+    "productInstanceReference" : {
+      "productFulfillmentArrangementInstanceReportType" : "productFulfillmentArrangementInstanceReportType",
+      "productFulfillmentArrangementInstanceReport" : {
+        "reportPeriod" : "reportPeriod",
+        "reportFormatTemplate" : "reportFormatTemplate",
+        "reportOptionsSelectionCriteria" : "reportOptionsSelectionCriteria",
+        "report" : {}
+      }
+    },
+    "customerCashflowPositionAnalysisRecord" : {}
+  }
+}

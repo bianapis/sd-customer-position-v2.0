@@ -1,0 +1,11 @@
+{
+  "requestRecordReference" : "RRR738150",
+  "customerPositionStateRequestActionTaskRecord" : {},
+  "customerPositionStateInstanceRecord" : {
+    "customerPositionStateRecord" : {},
+    "customerReference" : "700054",
+    "customerProductServiceEligibilityInstanceRecord" : {}
+  },
+  "customerPositionStateRequestActionTaskReference" : "CPSRATR746028",
+  "requestResponseRecord" : {}
+}

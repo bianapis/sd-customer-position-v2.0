@@ -1,0 +1,9 @@
+{
+  "cashflowCaptureActionTaskRecord" : {},
+  "cashflowCaptureRecordReference" : "CCRR768763",
+  "captureResponseRecord" : {},
+  "cashflowCaptureActionTaskReference" : "CCATR734530",
+  "cashflowInstanceRecord" : {
+    "customerCashflowPositionAnalysisRecord" : {}
+  }
+}

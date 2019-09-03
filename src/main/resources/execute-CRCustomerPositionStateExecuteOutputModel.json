@@ -1,0 +1,11 @@
+{
+  "executeRecordReference" : "ERR728753",
+  "customerPositionStateExecuteActionTaskReference" : "CPSEATR744713",
+  "customerPositionStateExecuteActionTaskRecord" : {},
+  "executeResponseRecord" : {},
+  "customerPositionStateInstanceRecord" : {
+    "customerPositionStateRecord" : {},
+    "customerReference" : "701717",
+    "customerProductServiceEligibilityInstanceRecord" : {}
+  }
+}

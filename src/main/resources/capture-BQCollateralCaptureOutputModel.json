@@ -1,0 +1,9 @@
+{
+  "collateralCaptureActionTaskReference" : "CCATR799145",
+  "collateralCaptureActionTaskRecord" : {},
+  "collateralCaptureRecordReference" : "CCRR729325",
+  "collateralInstanceRecord" : {
+    "customerCollateralPositionAnalysisRecord" : {}
+  },
+  "captureResponseRecord" : {}
+}

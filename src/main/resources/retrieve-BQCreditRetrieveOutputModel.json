@@ -1,0 +1,29 @@
+{
+  "creditRetrieveActionResponse" : "creditRetrieveActionResponse",
+  "creditInstanceRecord" : {
+    "customerCreditRatingAssessment" : {
+      "customerCreditRatingNarrative" : "customerCreditRatingNarrative",
+      "customerCreditRatingAssessmentType" : "customerCreditRatingAssessmentType"
+    },
+    "customerCreditPositionAnalysisRecord" : {}
+  },
+  "creditRetrieveActionTaskRecord" : {},
+  "creditRetrieveActionTaskReference" : "CRATR718860",
+  "customerPositionStateInstanceRecord" : {
+    "customerPositionStateRecord" : {},
+    "customerReference" : "701797",
+    "customerProductServiceEligibilityInstanceRecord" : {}
+  },
+  "creditInstanceAnalysis" : {
+    "creditInstanceAnalysisReport" : {},
+    "creditInstanceAnalysisRecord" : {},
+    "creditInstanceAnalysisReportType" : "creditInstanceAnalysisReportType",
+    "creditInstanceAnalysisParameters" : "creditInstanceAnalysisParameters"
+  },
+  "creditInstanceReport" : {
+    "creditInstanceReportRecord" : {},
+    "creditInstanceReportParameters" : "creditInstanceReportParameters",
+    "creditInstanceReportType" : "creditInstanceReportType",
+    "creditInstanceReport" : {}
+  }
+}
